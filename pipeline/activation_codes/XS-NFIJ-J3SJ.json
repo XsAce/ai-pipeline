@@ -5,5 +5,6 @@
   "status": "active",
   "used_by": "",
   "created_at": "2026-06-30 08:47:40",
-  "tier": "基础版"
+  "tier": "基础版",
+  "reset_at": "2026-06-30"
 }
