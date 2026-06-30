@@ -1,0 +1,12 @@
+{
+  "task_id": "task_20260630_101949_d4aa18",
+  "username": "xsace",
+  "status": "completed",
+  "prompt_preview": "Hello World!",
+  "code_chars": 0,
+  "response_chars": 79,
+  "zip_size_bytes": 520,
+  "token_cost": 52,
+  "balance_after": 194932,
+  "completed_at": "2026-06-30T10:20:30.590795"
+}
