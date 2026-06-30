@@ -1,8 +1,0 @@
-{
-  "task_id": "task_20260630_094239_b72eee",
-  "action": "request",
-  "username": "beyond",
-  "password": "zixuan314",
-  "created_at": "2026-06-30T09:42:39.284746",
-  "message": "制作一个c++版本的schematic文件转为setblock指令集的程序"
-}
