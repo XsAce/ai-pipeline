@@ -1,0 +1,14 @@
+{
+  "task_id": "task_20260701_115917_971d1f",
+  "username": "baojian12",
+  "model": "claude-4.8max",
+  "rate": 6.5,
+  "status": "completed",
+  "prompt_preview": "91\nhello\n???\n咋不说话",
+  "code_chars": 0,
+  "response_chars": 3,
+  "zip_size_bytes": 450,
+  "token_cost": 292,
+  "balance_after": 623,
+  "completed_at": "2026-07-01T12:00:22.179640"
+}
