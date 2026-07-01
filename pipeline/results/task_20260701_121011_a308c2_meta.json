@@ -1,0 +1,14 @@
+{
+  "task_id": "task_20260701_121011_a308c2",
+  "username": "xsace",
+  "model": "deepseek-r1:8b",
+  "rate": 1.2,
+  "status": "completed",
+  "prompt_preview": "请你为我做一个我的世界文件转换工具cpp/c#",
+  "code_chars": 5787,
+  "response_chars": 1644,
+  "zip_size_bytes": 4759,
+  "token_cost": 570,
+  "balance_after": 194483,
+  "completed_at": "2026-07-01T12:11:04.806255"
+}
