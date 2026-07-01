@@ -1,9 +1,0 @@
-{
-  "task_id": "task_20260701_120809_58f7dc",
-  "action": "request",
-  "username": "xsace",
-  "password": "919915",
-  "created_at": "2026-07-01T12:08:09.435847",
-  "message": "你是什么模型",
-  "model": "deepseek-r1:8b"
-}
