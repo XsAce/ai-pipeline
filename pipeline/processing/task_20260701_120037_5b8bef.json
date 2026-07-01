@@ -1,0 +1,9 @@
+{
+  "task_id": "task_20260701_120037_5b8bef",
+  "action": "request",
+  "username": "baojian12",
+  "password": "baojian12",
+  "created_at": "2026-07-01T12:00:37.034415",
+  "message": "hello",
+  "model": "claude-4.8max"
+}
