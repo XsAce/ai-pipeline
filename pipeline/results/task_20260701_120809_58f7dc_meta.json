@@ -1,0 +1,14 @@
+{
+  "task_id": "task_20260701_120809_58f7dc",
+  "username": "xsace",
+  "model": "deepseek-r1:8b",
+  "rate": 1.2,
+  "status": "completed",
+  "prompt_preview": "你是什么模型",
+  "code_chars": 0,
+  "response_chars": 622,
+  "zip_size_bytes": 1558,
+  "token_cost": 186,
+  "balance_after": 194556,
+  "completed_at": "2026-07-01T12:08:38.224488"
+}
