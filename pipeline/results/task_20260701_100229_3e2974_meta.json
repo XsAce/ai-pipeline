@@ -1,0 +1,14 @@
+{
+  "task_id": "task_20260701_100229_3e2974",
+  "username": "xsace",
+  "model": "deepseek-r1:8b",
+  "rate": 1.2,
+  "status": "completed",
+  "prompt_preview": "请为我做一个ip查询工具",
+  "code_chars": 8887,
+  "response_chars": 2153,
+  "zip_size_bytes": 5721,
+  "token_cost": 686,
+  "balance_after": 195093,
+  "completed_at": "2026-07-01T10:03:47.616523"
+}
