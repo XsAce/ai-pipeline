@@ -1,9 +1,8 @@
 {
-  "total": 3,
-  "processing": "task_20260630_103538_7e6d24",
+  "total": 2,
+  "processing": "task_20260630_110216_bc0eaf",
   "waiting": [
-    "task_20260630_110216_bc0eaf",
     "task_20260630_111100_cb1576"
   ],
-  "updated_at": "2026-07-01T09:19:47.804219"
+  "updated_at": "2026-07-01T09:20:02.631783"
 }
