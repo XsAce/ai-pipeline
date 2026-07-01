@@ -1,0 +1,14 @@
+{
+  "task_id": "task_20260701_120037_5b8bef",
+  "username": "baojian12",
+  "model": "claude-4.8max",
+  "rate": 6.5,
+  "status": "completed",
+  "prompt_preview": "hello",
+  "code_chars": 0,
+  "response_chars": 33,
+  "zip_size_bytes": 481,
+  "token_cost": 312,
+  "balance_after": 370,
+  "completed_at": "2026-07-01T12:01:20.901260"
+}
