@@ -1,0 +1,14 @@
+{
+  "task_id": "task_20260701_102900_223479",
+  "username": "xsace",
+  "model": "deepseek-r1:8b",
+  "rate": 1.2,
+  "status": "completed",
+  "prompt_preview": "我剩余的token",
+  "code_chars": 0,
+  "response_chars": 1075,
+  "zip_size_bytes": 2106,
+  "token_cost": 252,
+  "balance_after": 194685,
+  "completed_at": "2026-07-01T10:31:02.225531"
+}
