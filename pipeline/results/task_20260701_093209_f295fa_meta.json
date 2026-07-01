@@ -1,0 +1,14 @@
+{
+  "task_id": "task_20260701_093209_f295fa",
+  "username": "xsace",
+  "model": "claude-4.8max",
+  "rate": 6.5,
+  "status": "completed",
+  "prompt_preview": "你好",
+  "code_chars": 0,
+  "response_chars": 15,
+  "zip_size_bytes": 494,
+  "token_cost": 318,
+  "balance_after": 195491,
+  "completed_at": "2026-07-01T09:32:40.318841"
+}
