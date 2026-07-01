@@ -1,6 +1,9 @@
 {
-  "total": 0,
-  "processing": null,
-  "waiting": [],
-  "updated_at": "2026-06-30T10:31:29.913102"
+  "total": 3,
+  "processing": "task_20260630_103538_7e6d24",
+  "waiting": [
+    "task_20260630_110216_bc0eaf",
+    "task_20260630_111100_cb1576"
+  ],
+  "updated_at": "2026-07-01T09:19:47.804219"
 }
