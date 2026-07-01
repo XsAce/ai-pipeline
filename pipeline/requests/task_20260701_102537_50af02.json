@@ -1,9 +1,0 @@
-{
-  "task_id": "task_20260701_102537_50af02",
-  "action": "request",
-  "username": "xsace",
-  "password": "919915",
-  "created_at": "2026-07-01T10:25:37.020964",
-  "message": "你好，你是谁",
-  "model": "claude-4.8max"
-}
